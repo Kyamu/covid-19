@@ -1,0 +1,43 @@
+/* CovidData.css */
+*{
+  background-color: #000;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Set the container to full height of the viewport */
+    color: #fff;;
+    border: 2px solid white;
+    
+  }
+  input{
+    color: white;
+    border: 1px solid white;
+    padding: 5px;
+    border-radius: 4px;
+    font-size: 16px;
+    box-sizing: border-box;
+  }
+  button{
+    color: white;
+    margin-left: 10px;
+    border: 1px solid white;
+    padding: 5px;
+    border-radius: 4px;
+    font-size: 16px;
+    box-sizing: border-box;
+  }
+  h1 {
+    text-align: center;
+  }
+  
+  input {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
